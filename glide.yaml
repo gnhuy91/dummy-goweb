@@ -1,0 +1,3 @@
+package: dummy-goweb
+import:
+- package: github.com/gorilla/mux
